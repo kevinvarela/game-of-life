@@ -2,6 +2,7 @@
 
 ### pip install pygame
 ### pip install numpy 
+### RUN: python lifegame.py
 
 #### spacebar: stop/play
 #### left click: active cell
