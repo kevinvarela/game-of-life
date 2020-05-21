@@ -1,7 +1,6 @@
 # game-of-life
 
-### pip install pygame
-### pip install numpy 
+### pip install -r requirements.txt
 
 #### spacebar: stop/play
 #### left click: active cell
