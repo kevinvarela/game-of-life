@@ -1,7 +1,7 @@
 # game-of-life
 
-### pip install pygame
-### pip install numpy 
+### pip install -r requirements.txt
+
 ### RUN: python lifegame.py
 
 #### spacebar: stop/play
